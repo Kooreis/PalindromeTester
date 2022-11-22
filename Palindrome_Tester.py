@@ -1,2 +1,2 @@
-def is_palindrome(input_string):
-    return input_string == input_string[::-1]
+while True:
+    user_input = input("Enter a word to check if it's a palindrome or 'q' to quit: ")
